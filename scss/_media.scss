@@ -1,0 +1,45 @@
+@media screen and (max-width: 768px) {
+  nav ul, nav:active ul {
+    width: 50%;
+
+    li {
+      font-size: 120%;
+    }
+  }
+
+  p {
+    font-size: 120%;
+  }
+  h2 {
+    font-size: 160%;
+  }
+  .left-col {
+    width: 96%;
+    margin: 0 0 3% 0;
+    padding: 0 2%;
+  }
+  .sidebar {
+    width: 96%;
+    margin: 0 auto;
+  }
+  img {
+    padding: 2%;
+  }
+  .one-third-port {
+    width: 96%;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  .parallax {
+    display: none;
+  }
+
+  .social i {
+    font-size: 170%;
+  }
+
+  .contact p {
+    letter-spacing: normal;
+  }
+}

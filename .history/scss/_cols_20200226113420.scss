@@ -1,0 +1,40 @@
+.left-col {
+  width: 60%;
+  float: left;
+  margin: 4% 0 4% 4%;
+}
+
+.sidebar {
+  width: 26%;
+  float: left;
+  margin: 4%;
+}
+
+
+.one-third-port {
+  width: 31.33333333%;
+  padding: 2%;
+  margin: 1%;
+  float: left;
+}
+
+.contact p {
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+.contact a {
+  color: $text-color;
+  text-decoration: none;
+}
+
+// .break {
+//   display: no;
+// }
+
+.clearfix {
+  clear: both;
+  height: 3%;
+}
+
+
